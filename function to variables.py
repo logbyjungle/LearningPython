@@ -1,0 +1,2 @@
+di = print
+di("salve")
